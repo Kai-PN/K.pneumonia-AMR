@@ -9,7 +9,7 @@
   - [Feature Selection: All Selectors, All Models](#feature-selection-all-selectors-all-models)
   - [Incremental AdaBoost Feature Selection (Main Pipeline)](#incremental-adaboost-feature-selection-main-pipeline)
 - [Installation](#installation)
-- [Usage](#usage)s
+- [Usage](#usage)
 - [Output Files](#output-files)
 - [Evaluation Metrics](#evaluation-metrics)
 
@@ -125,7 +125,7 @@ Aggregate fold-level best metrics → mean ± std
 
 ```bash
 # Clone the repository
-git clone https://github.com/<Kai-PN>/<K.pneumonia-AMR>.git
+git clone https://github.com/Kai-PN/K.pneumonia-AMR.git
 cd <your_repo>
 
 # Create a virtual environment (recommended)
